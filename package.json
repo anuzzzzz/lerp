@@ -1,0 +1,12 @@
+{
+  "name": "lerp",
+  "version": "0.1.0",
+  "description": "AI Logo Generation Pipeline — Node dependencies",
+  "private": true,
+  "dependencies": {
+    "svgo": "^4.0.0"
+  },
+  "scripts": {
+    "svgo": "svgo"
+  }
+}

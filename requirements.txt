@@ -1,0 +1,23 @@
+# Lerp — Python Dependencies
+
+# Core
+anthropic>=0.40.0
+python-dotenv>=1.0.0
+
+# Image processing
+Pillow>=10.0.0
+numpy>=1.24.0
+cairosvg>=2.7.0
+
+# Vectorization
+vtracer>=0.6.0
+
+# SVG analysis
+svgpathtools>=1.6.0
+scipy>=1.11.0
+
+# HTTP (for Recraft API)
+requests>=2.31.0
+
+# Testing
+pytest>=7.0.0
