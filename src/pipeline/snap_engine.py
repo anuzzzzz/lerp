@@ -200,6 +200,8 @@ class SnapEngine:
         except Exception:
             pass
 
+        print(f"  📷 Image included: {has_image}")
+
         # Build message with image + code
         content = []
 
